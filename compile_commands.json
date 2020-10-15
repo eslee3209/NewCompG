@@ -1,0 +1,53 @@
+[
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-g",
+            "-Wall",
+            "-O2",
+            "-std=c++11",
+            "-pthread",
+            "-march=native",
+            "-o",
+            "HEAANfunc.o",
+            "HEAANfunc.cpp"
+        ],
+        "directory": "/home/eunsang/newcompG",
+        "file": "HEAANfunc.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-g",
+            "-Wall",
+            "-O2",
+            "-std=c++11",
+            "-pthread",
+            "-march=native",
+            "-o",
+            "main.o",
+            "main.cpp"
+        ],
+        "directory": "/home/eunsang/newcompG",
+        "file": "main.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-g",
+            "-Wall",
+            "-O2",
+            "-std=c++11",
+            "-pthread",
+            "-march=native",
+            "-o",
+            "homocomp.o",
+            "homocomp.cpp"
+        ],
+        "directory": "/home/eunsang/newcompG",
+        "file": "homocomp.cpp"
+    }
+]
